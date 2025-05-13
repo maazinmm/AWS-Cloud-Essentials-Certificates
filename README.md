@@ -1,2 +1,2 @@
-# AWS-Cloud-Essentials-Certificates
-My AWS Cloud Practitioner Essentials Certificates
+# AWS-Cloud-Essentials-Knowledge Badge
+My AWS Cloud Essentials Certificates and Knowledge Badge
